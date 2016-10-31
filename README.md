@@ -1,0 +1,4 @@
+# COMPUTER VISION CHINESE CHARACTER PROJECT 
+The idea here is to identify Chinese digits in various fonts from 1 to 10. Before diving into the project statement we went through the example tutorial, practiced, ran and understood the code and how CNN works. After doing that we did the following.
+
+We have our data set where we have 156 images for all digits from 1 to 10. Some of it will become our training data and rest will become the test data. We trained our training dataset using 3 types of CNN combinations. We first implemented the CNN method as described in the oxford tutorial. After that we gave it our sample test data. Here our sample data is the digits on the mahjong tiles. Once we implemented this we tried it with two variations of CNN. After training our data with these two variations we again tested with the mahjong tiles dataset. We have listed all our results in the end. In the end we mentioned what we learnt from the project.
